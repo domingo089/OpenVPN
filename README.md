@@ -1,6 +1,7 @@
 INSTALAR OPENVPN Ubuntu-server24.04
 
 1-wget https://git.io/vpn -O openvpn-install.sh
+
 2-chmod +x openvpn-install.sh 
 
 3-sudo bash openvpn-install.sh 
